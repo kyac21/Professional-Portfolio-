@@ -35,7 +35,6 @@ Feel free to explore my projects in the repository, and feel free to reach out t
 - [LinkedIn](https://www.linkedin.com/in/kyacarroll/)
 - [Portfolio](https://www.kyacarroll.com)
 
-
 ## Projects
 
 ### 1. Training for Sport
