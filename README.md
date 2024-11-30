@@ -35,8 +35,6 @@ Feel free to explore my projects in the repository, and feel free to reach out t
 - [LinkedIn](https://www.linkedin.com/in/kyacarroll/)
 - [Portfolio](https://www.kyacarroll.com)
 
-This portfolio represents my work and contributions in the fields of sports science, nutrition, and strength conditioning. Feel free to explore the files and learn more about my research and methodologies.
-
 
 ## Projects
 
