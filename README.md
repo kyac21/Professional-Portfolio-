@@ -1,6 +1,18 @@
-# Professional Portfolio
 
-Welcome to my professional portfolio! This repository showcases my projects and research related to sports science, strength and conditioning, nutrition, and more. Below, you will find a detailed description of each project, along with links to relevant files.
+# Professional Portfolio
+## About Me
+
+Hello! My name is [Your Name], and I am a passionate professional with a focus on **sports science**, **strength and conditioning**, and **nutrition**. I specialize in designing training programs, optimizing athletic performance, and conducting research on various aspects of human physiology.
+
+I am currently involved in multiple projects related to athlete development, including **periodization** for performance training, **nutritional strategies** for sports, and **research on metabolic changes** in athletes. My work combines both practical knowledge and scientific research to help athletes improve and reach their potential.
+
+With a background in [mention any relevant degree, certifications, or experience], I continuously seek to expand my expertise and stay up to date with the latest research in sports science and performance.
+
+I am always open to learning new concepts and applying evidence-based practices to support athletes in achieving their goals.
+
+Feel free to reach out to me through GitHub or via [your professional contact info or social media links].
+
+
 
 ## Projects
 
