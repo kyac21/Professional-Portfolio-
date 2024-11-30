@@ -1,17 +1,39 @@
 
 # Professional Portfolio
-## About Me
+### About Me
 
-Hello! My name is [Your Name], and I am a passionate professional with a focus on **sports science**, **strength and conditioning**, and **nutrition**. I specialize in designing training programs, optimizing athletic performance, and conducting research on various aspects of human physiology.
+Hello! My name is **Kya Carroll**, and I am currently pursuing my **Master of Science in Sports Science** at the **University of Pittsburgh** (expected graduation: May 2025). I also hold a **Bachelor of Arts in Health Sciences**, with distinction, and a minor in Psychology from **Hendrix College**, where I was consistently recognized on the Dean's List.
 
-I am currently involved in multiple projects related to athlete development, including **periodization** for performance training, **nutritional strategies** for sports, and **research on metabolic changes** in athletes. My work combines both practical knowledge and scientific research to help athletes improve and reach their potential.
+I am passionate about enhancing athletic performance, optimizing training programs, and applying sports science principles in practical settings. I am deeply committed to advancing my expertise in **strength and conditioning**, **exercise physiology**, and **sports nutrition**.
 
-With a background in [mention any relevant degree, certifications, or experience], I continuously seek to expand my expertise and stay up to date with the latest research in sports science and performance.
+### Education:
+- **Master of Science in Sports Science**, University of Pittsburgh (Expected May 2025)
+- **Bachelor of Arts in Health Sciences with Distinction**, Hendrix College (2020-2024)
+- **Minor in Psychology**, Hendrix College
+- Additional coursework at Henderson State University and University of Arkansas at Little Rock
 
-I am always open to learning new concepts and applying evidence-based practices to support athletes in achieving their goals.
+### Professional Experience:
+- **Sports Science/Strength and Conditioning Intern** at the University of Pittsburgh's Women's Basketball program. Here, I contribute to strength and conditioning programs, focusing on injury prevention and performance enhancement.
+- **Exercise Physiology Student Assistant** at the University of Pittsburgh, where I support both the lecture and lab components of the Exercise Physiology course.
+- **Strength and Conditioning Intern** at **University of Nevada Las Vegas Athletics**, assisting with performance assessments and the operation of advanced sports technologies.
+- I have also been involved in various internships and research opportunities, including a **Summer Undergraduate Research Program (SURP)** at the **University of Arkansas for Medical Sciences**, where I explored metabolic data collection and presented my research at a symposium.
 
-Feel free to reach out to me through GitHub or via [your professional contact info or social media links].
+### Skills & Certifications:
+- **Certified Strength and Conditioning Specialist (CSCS)** (2024-Present)
+- **CPR/AED/First Aid Certified** (2024-2026)
+- Proficient in Microsoft Office (Word, PowerPoint, Excel) and various sports performance technologies (e.g., Catapult, Force Plates, Polar devices)
 
+### Research & Contributions:
+- I have contributed to significant research projects, including **Blood Flow Restriction (BFR) therapy**, **metabolic data collection**, and **glucose tolerance testing**. I am particularly interested in how **maternal undernutrition** impacts metabolic regulation in offspring, a subject I presented on at the **Central Arkansas Undergraduate Research Symposium**.
+
+### Athletics:
+I was a dedicated athlete in college sports, having competed as a thrower for **Hendrix College Track and Field**, where I earned a letter and made the **Southern Athletic Association (SAA) Academic Honor Roll**.
+
+### Let's Connect:
+Feel free to explore my projects in the repository, and feel free to reach out to me if you have any questions or would like to discuss collaboration opportunities.
+
+- [LinkedIn](https://www.linkedin.com/in/kyacarroll/)
+- [Portfolio](https://www.kyacarroll.com)
 
 
 ## Projects
