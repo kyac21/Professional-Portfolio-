@@ -33,7 +33,7 @@ I was a dedicated athlete in college sports, having competed as a thrower for **
 Feel free to explore my projects in the repository, and feel free to reach out to me if you have any questions or would like to discuss collaboration opportunities.
 
 - [LinkedIn](https://www.linkedin.com/in/kyacarroll/)
-- [Portfolio](https://www.kyacarroll.com)
+
 
 ## Projects
 
