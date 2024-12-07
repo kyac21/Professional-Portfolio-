@@ -55,9 +55,8 @@ Nutritional strategies for optimizing athletic performance, including the balanc
 
 This section provides an overview of the strength and conditioning updates for the **Pitt Women's Basketball Team** during their preseason training. Some details have been omitted for privacy and identity protection purposes.
 
-**Attachment**: [2024 Preseason Updates (PITT WBB) - PowerPoint](https://github.com/kyac21/Professional-Portfolio-/edit/main/README.md#:~:text=2024%20Preseason%20Updates%20(-,PITT,-WBB)%20copy.pptx) 
+**Attachment**: [2024 Preseason Updates (PITT WBB) - PowerPoint] (
 
-This PowerPoint covers:
 - **Cycle 1** (August 26 to September 21): A 4-week recap, including detailed focus lifts such as barbell squats, bench press, and trap bar deadlifts.
 - **Cycle 2** (September 23 to present): A 2-week update, including exercises like the Hatfield Hands-Free Squat, barbell bench press, and b stance trap bar deadlifts.
 - **Player Load Breakdown**: Detailed data on training load during practices and games, which is critical for understanding the athletes' physical demands.
