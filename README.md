@@ -65,7 +65,7 @@ This section provides an overview of the strength and conditioning updates for t
 
 ## 4. Power BI Dashboards
 
-### 1. Player Dashboard
+# Player Dashboard
 
 ## Purpose
 The Player Dashboard provides key performance metrics for athletes to track their physical output and readiness. This tool helps in analyzing trends over time to optimize training and recovery strategies.
@@ -98,9 +98,48 @@ This dashboard was developed to monitor and analyze player data during training 
 1. Open the PDF file to explore the visualizations and data trends.
 2. Cross-reference with training logs to draw actionable insights.
 
+## Future Enhancements
+- Adding more detailed metrics like heart rate variability (HRV) or GPS tracking data.
+- Integrating real-time data feeds for live monitoring.
 
-### 2. [Wellness Dashboard](https://pitt-my.sharepoint.com/:u:/r/personal/kdc74_pitt_edu/Documents/Documents/Wellness%20Dashbord.pbix?csf=1&web=1&e=eVRhrq)
-Tracks wellness metrics with actionable insights.
+---
+
+# Wellness Dashboard
+
+## Purpose
+The Wellness Dashboard monitors athlete wellness metrics to ensure optimal performance and recovery. It provides a comprehensive view of an athlete's physical and mental readiness.
+
+## Key Metrics
+- **Fatigue Z-Score**: Assesses levels of fatigue based on cumulative stress and recovery.
+- **Meals and Snacks**: Tracks the athlete's nutritional intake.
+- **Sleep Duration**: Monitors hours of sleep as a recovery metric.
+- **Physical and Mental RPE (Rate of Perceived Exertion)**: Evaluates the physical and mental effort exerted by the athlete.
+
+## Visualization Overview
+- **Bar Chart**: Displays trends in Fatigue Z-Score over time.
+- **Stacked Bar Chart**: Highlights the balance of meals, snacks, and sleep duration.
+- **Comparison Chart**: Visualizes Physical and Mental RPE to assess overall exertion levels.
+
+## Usage
+This dashboard helps in understanding the relationship between wellness factors and athletic performance. It is useful for:
+- Tracking recovery and readiness levels.
+- Identifying periods of high stress or inadequate recovery.
+- Adjusting training loads and recovery plans based on wellness trends.
+
+## Example Insights
+- **Fatigue Trends**: Identify spikes in fatigue levels that may require intervention.
+- **Recovery Optimization**: Correlate sleep and nutritional intake with performance metrics to optimize recovery.
+
+## Files
+- `Wellness_Dashboard.pdf`: Detailed report with visual insights and trends.
+
+## How to Use
+1. Open the PDF file to review the athlete's wellness trends.
+2. Use insights to modify training and recovery plans.
+
+## Future Enhancements
+- Incorporating mental health metrics like stress and mood levels.
+- Adding hydration tracking for a more holistic wellness view.
 
 
 ### 5. Leptin and Metabolic Changes in Offspring
