@@ -92,7 +92,7 @@ This dashboard was developed to monitor and analyze player data during training 
 - **Recovery Trends**: Monitoring mRSI to ensure adequate recovery between high-intensity efforts.
 
 ## Files
-- (Example Player Dashbord : Full report with detailed metrics and visualizations.
+- [(Example Player Dashbord](https://github.com/kyac21/Professional-Portfolio-/blob/52f5555968d3d5edae647050c1960a30cc957312/Example%20Player%20Dashbord.pdf): Full report with detailed metrics and visualizations.
 
 ## How to Use
 1. Open the PDF file to explore the visualizations and data trends.
