@@ -65,8 +65,39 @@ This section provides an overview of the strength and conditioning updates for t
 
 ## 4. Power BI Dashboards
 
-### 1. [Dashboard Example]
-A dashboard visualizing performance trends and analytics.
+### 1. Player Dashboard
+
+## Purpose
+The Player Dashboard provides key performance metrics for athletes to track their physical output and readiness. This tool helps in analyzing trends over time to optimize training and recovery strategies.
+
+## Key Metrics
+- **Total Player Load**: A cumulative measure of the player's physical exertion over time.
+- **High Explosive Efforts**: Tracks high-intensity movements performed by the athlete.
+- **Jump Height**: Evaluates the player's vertical jumping ability across sessions.
+- **mRSI (Modified Reactive Strength Index)**: Assesses an athlete's explosive power and efficiency.
+
+## Visualization Overview
+- **Bar Chart**: Displays Total Player Load and High Explosive Efforts by month and day.
+- **Line Chart**: Shows the maximum Jump Height and mRSI trends over selected dates.
+- **Trend Lines**: Help identify fluctuations in player performance metrics.
+
+## Usage
+This dashboard was developed to monitor and analyze player data during training periods. It is particularly useful for:
+- Identifying patterns of overtraining or undertraining.
+- Adjusting training loads based on performance trends.
+- Supporting evidence-based decisions for individualized player development.
+
+## Example Insights
+- **Performance Peaks**: Days with high explosive efforts indicate intense training or match performance.
+- **Recovery Trends**: Monitoring mRSI to ensure adequate recovery between high-intensity efforts.
+
+## Files
+- `Example_Player_Dashboard.pdf`: Full report with detailed metrics and visualizations.
+
+## How to Use
+1. Open the PDF file to explore the visualizations and data trends.
+2. Cross-reference with training logs to draw actionable insights.
+
 
 ### 2. [Wellness Dashboard](https://pitt-my.sharepoint.com/:u:/r/personal/kdc74_pitt_edu/Documents/Documents/Wellness%20Dashbord.pbix?csf=1&web=1&e=eVRhrq)
 Tracks wellness metrics with actionable insights.
