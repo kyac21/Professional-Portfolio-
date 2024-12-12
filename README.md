@@ -92,7 +92,7 @@ This dashboard was developed to monitor and analyze player data during training 
 - **Recovery Trends**: Monitoring mRSI to ensure adequate recovery between high-intensity efforts.
 
 ## Files
-- (Example Player Dashbord.pdf): Full report with detailed metrics and visualizations.
+- (Example Player Dashbord : Full report with detailed metrics and visualizations.
 
 ## How to Use
 1. Open the PDF file to explore the visualizations and data trends.
@@ -131,7 +131,7 @@ This dashboard helps in understanding the relationship between wellness factors 
 - **Recovery Optimization**: Correlate sleep and nutritional intake with performance metrics to optimize recovery.
 
 ## Files
-- `Wellness_Dashboard.pdf`: Detailed report with visual insights and trends.
+- [(Wellness Dashbord](https://github.com/kyac21/Professional-Portfolio-/blob/a66a2d1041c3dddbae3ab543a944c13a8667512c/Wellness%20Dashbord.pdf)): Detailed report with visual insights and trends.
 
 ## How to Use
 1. Open the PDF file to review the athlete's wellness trends.
