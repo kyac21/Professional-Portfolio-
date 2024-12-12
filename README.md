@@ -63,14 +63,23 @@ This section provides an overview of the strength and conditioning updates for t
 
 **Note**: Some sensitive details, such as specific player names and performance data, have been removed to protect the privacy of the athletes involved.
 
-### 4. Leptin and Metabolic Changes in Offspring
+## 4. Power BI Dashboards
+
+### 1. [Dashboard Example](https://pitt-my.sharepoint.com/:u:/r/personal/kdc74_pitt_edu/Documents/Documents/Dashbord%20Example.pbix?csf=1&web=1&e=YPtGyd)
+A dashboard visualizing performance trends and analytics.
+
+### 2. [Wellness Dashboard](https://pitt-my.sharepoint.com/:u:/r/personal/kdc74_pitt_edu/Documents/Documents/Wellness%20Dashbord.pbix?csf=1&web=1&e=eVRhrq)
+Tracks wellness metrics with actionable insights.
+
+
+### 5. Leptin and Metabolic Changes in Offspring
 Research on the effects of maternal undernutrition on offspring's leptin regulation and metabolic changes.
 
 **[Leptin and Metabolic Changes - PowerPoint](./CarrollKya2023.pptx)**
 
 ---
 
-### 5. Women’s Hoops In-Season Program (UNLV)
+### 6. Women’s Hoops In-Season Program (UNLV)
 In-season strength and conditioning for the UNLV Women's Basketball team.
 
 **[UNLV Women’s Hoops In-Season Program - Excel File](./Women's%20Hoops%20In%20season%20Program%20%28UNLV%29%20.xlsx)**
