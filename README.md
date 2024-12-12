@@ -65,7 +65,7 @@ This section provides an overview of the strength and conditioning updates for t
 
 ## 4. Power BI Dashboards
 
-### 1. [Dashboard Example](https://pitt-my.sharepoint.com/:u:/r/personal/kdc74_pitt_edu/Documents/Documents/Dashbord%20Example.pbix?csf=1&web=1&e=YPtGyd)
+### 1. [Dashboard Example]
 A dashboard visualizing performance trends and analytics.
 
 ### 2. [Wellness Dashboard](https://pitt-my.sharepoint.com/:u:/r/personal/kdc74_pitt_edu/Documents/Documents/Wellness%20Dashbord.pbix?csf=1&web=1&e=eVRhrq)
