@@ -63,48 +63,8 @@ This section provides an overview of the strength and conditioning updates for t
 
 **Note**: Some sensitive details, such as specific player names and performance data, have been removed to protect the privacy of the athletes involved.
 
-## 4. Power BI Dashboards
 
-# Player Dashboard
-
-## Purpose
-The Player Dashboard provides key performance metrics for athletes to track their physical output and readiness. This tool helps in analyzing trends over time to optimize training and recovery strategies.
-
-## Key Metrics
-- **Total Player Load**: A cumulative measure of the player's physical exertion over time.
-- **High Explosive Efforts**: Tracks high-intensity movements performed by the athlete.
-- **Jump Height**: Evaluates the player's vertical jumping ability across sessions.
-- **mRSI (Modified Reactive Strength Index)**: Assesses an athlete's explosive power and efficiency.
-
-## Visualization Overview
-- **Bar Chart**: Displays Total Player Load and High Explosive Efforts by month and day.
-- **Line Chart**: Shows the maximum Jump Height and mRSI trends over selected dates.
-- **Trend Lines**: Help identify fluctuations in player performance metrics.
-
-## Usage
-This dashboard was developed to monitor and analyze player data during training periods. It is particularly useful for:
-- Identifying patterns of overtraining or undertraining.
-- Adjusting training loads based on performance trends.
-- Supporting evidence-based decisions for individualized player development.
-
-## Example Insights
-- **Performance Peaks**: Days with high explosive efforts indicate intense training or match performance.
-- **Recovery Trends**: Monitoring mRSI to ensure adequate recovery between high-intensity efforts.
-
-## Files
-- [(Example Player Dashbord](https://github.com/kyac21/Professional-Portfolio-/blob/52f5555968d3d5edae647050c1960a30cc957312/Example%20Player%20Dashbord.pdf): Full report with detailed metrics and visualizations.
-
-## How to Use
-1. Open the PDF file to explore the visualizations and data trends.
-2. Cross-reference with training logs to draw actionable insights.
-
-## Future Enhancements
-- Adding more detailed metrics like heart rate variability (HRV) or GPS tracking data.
-- Integrating real-time data feeds for live monitoring.
-
----
-
-# Wellness Dashboard
+### 4. Wellness Dashboard
 
 ## Purpose
 The Wellness Dashboard monitors athlete wellness metrics to ensure optimal performance and recovery. It provides a comprehensive view of an athlete's physical and mental readiness.
