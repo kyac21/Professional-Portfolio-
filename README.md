@@ -47,7 +47,13 @@ Another core lecture series I led, focusing on macronutrient intake, hydration, 
 
 [Download Lecture Material](./17.KA_CH_17b_Nutrition_for_sport_copy.pdf?raw=true)
 
-## 2024 Preseason Updates (Pitt Women’s Basketball)
+## Strength and Conditioning for Women’s Basketball
+### UNLV In-Season Program
+A comprehensive strength and conditioning program tailored for the UNLV Women’s Basketball team to maintain peak performance during the season.
+
+[Download Program Details](./Women's_Hoops_In_season_Program_UNLV.xlsx?raw=true)
+
+### 2024 Preseason Updates (Pitt Women’s Basketball)
 A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasing preseason strength and conditioning progress for Pitt Women’s Basketball.
 
 [Download Slide Deck](./2024_Preseason_Updates_PITT_WBB_copy.pptx?raw=true)
