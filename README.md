@@ -36,6 +36,13 @@ Feel free to explore my projects in the repository, and feel free to reach out t
 
 ## Projects
 
+# Kya Carroll - Professional Portfolio
+
+## About Me
+Welcome to my professional portfolio! I specialize in sports science and performance, with expertise in strength and conditioning, sports nutrition, and athlete performance analysis.
+
+Connect with me on [LinkedIn](https://linkedin.com/in/kyacarroll).
+
 ## Lectures
 ### Training for Sport
 These materials were developed as part of my role as a Teaching Assistant for REHSCI 1215 Exercise Physiology. Topics include periodization, overtraining, tapering, and detraining. Special thanks to Dr. Sean Crandell for his guidance and support during these lectures.
@@ -55,8 +62,8 @@ A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasi
 ## Performance Dashboards
 Performance data visualizations created using Power BI. **Note:** Names of athletes have been redacted for confidentiality.
 
-![Example Player Dashboard](files/Example_Player_Dashbord.png)
-![Wellness Dashboard](files/Wellness_Dashboard.png)
+![Example Player Dashboard](files/Example_Player_Dashbord.pdf)
+![Wellness Dashboard](files/Wellness_Dashboard.pdf)
 
 [Download Example Player Dashboard (Redacted)](files/Example_Player_Dashbord.pdf)  
 [Download Wellness Dashboard (Redacted)](files/Wellness_Dashboard.pdf)
@@ -73,7 +80,4 @@ View my complete professional background, including certifications and skills.
 
 ---
 
-## File Access
-
-You can download and view the files associated with each project directly from this repository.
 
