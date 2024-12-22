@@ -34,85 +34,44 @@ Feel free to explore my projects in the repository, and feel free to reach out t
 
 - [LinkedIn](https://www.linkedin.com/in/kyacarroll/)
 
-
 ## Projects
 
-### 1. Training for Sport
-An overview of periodization, overtraining, tapering, and detraining in athletic training.
+## Lectures
+### Training for Sport
+These materials were developed as part of my role as a Teaching Assistant for REHSCI 1215 Exercise Physiology. Topics include periodization, overtraining, tapering, and detraining. Special thanks to Dr. Sean Crandell for his guidance and support during these lectures.
 
-**[Training for Sport - PDF](./15.%20KA%20CH%2016%20Training%20for%20sport%20copy.pdf)**
+[Download Lecture Material](files/15.KA_CH_16_Training_for_sport_copy.pdf)
 
----
+### Nutrition for Sport
+Another core lecture series I led, focusing on macronutrient intake, hydration, and their effects on athletic performance. This series was also made possible with the mentorship of Dr. Sean Crandell.
 
-### 2. Nutrition for Sport
-Nutritional strategies for optimizing athletic performance, including the balance of macronutrients and hydration.
+[Download Lecture Material](files/17.KA_CH_17b_Nutrition_for_sport_copy.pdf)
 
-**[Nutrition for Sport - PDF](./17.%20KA%20CH%2017b%20Nutrition%20for%20sport%20copy.pdf)**
+## 2024 Preseason Updates (Pitt Women’s Basketball)
+A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasing preseason strength and conditioning progress for Pitt Women’s Basketball.
 
----
+[Download Slide Deck](files/2024_Preseason_Updates_PITT_WBB_copy.pptx)
 
-### 3. 2024 Preseason Updates (PITT WBB)
+## Performance Dashboards
+Performance data visualizations created using Power BI. **Note:** Names of athletes have been redacted for confidentiality.
 
-This section provides an overview of the strength and conditioning updates for the **Pitt Women's Basketball Team** during their preseason training. Some details have been omitted for privacy and identity protection purposes.
+![Example Player Dashboard](files/Example_Player_Dashbord.png)
+![Wellness Dashboard](files/Wellness_Dashboard.png)
 
-[Download 2024 Preseason Updates (PITT WBB) - PowerPoint](https://github.com/kyac21/Professional-Portfolio-/blob/main/2024%20Preseason%20Updates%20%28PITT%20WBB%29%20copy.pptx?raw=true)
+[Download Example Player Dashboard (Redacted)](files/Example_Player_Dashbord.pdf)  
+[Download Wellness Dashboard (Redacted)](files/Wellness_Dashboard.pdf)
 
-- **Cycle 1** (August 26 to September 21): A 4-week recap, including detailed focus lifts such as barbell squats, bench press, and trap bar deadlifts.
-- **Cycle 2** (September 23 to present): A 2-week update, including exercises like the Hatfield Hands-Free Squat, barbell bench press, and b stance trap bar deadlifts.
-- **Player Load Breakdown**: Detailed data on training load during practices and games, which is critical for understanding the athletes' physical demands.
+## Research Projects
+My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
 
-**Note**: Some sensitive details, such as specific player names and performance data, have been removed to protect the privacy of the athletes involved.
+[Download Research Presentation](files/CarrollKya2023.pptx)
 
+## Resume
+View my complete professional background, including certifications and skills.
 
-### 4. Wellness Dashboard
-
-## Purpose
-The Wellness Dashboard monitors athlete wellness metrics to ensure optimal performance and recovery. It provides a comprehensive view of an athlete's physical and mental readiness.
-
-## Key Metrics
-- **Fatigue Z-Score**: Assesses levels of fatigue based on cumulative stress and recovery.
-- **Meals and Snacks**: Tracks the athlete's nutritional intake.
-- **Sleep Duration**: Monitors hours of sleep as a recovery metric.
-- **Physical and Mental RPE (Rate of Perceived Exertion)**: Evaluates the physical and mental effort exerted by the athlete.
-
-## Visualization Overview
-- **Bar Chart**: Displays trends in Fatigue Z-Score over time.
-- **Stacked Bar Chart**: Highlights the balance of meals, snacks, and sleep duration.
-- **Comparison Chart**: Visualizes Physical and Mental RPE to assess overall exertion levels.
-
-## Usage
-This dashboard helps in understanding the relationship between wellness factors and athletic performance. It is useful for:
-- Tracking recovery and readiness levels.
-- Identifying periods of high stress or inadequate recovery.
-- Adjusting training loads and recovery plans based on wellness trends.
-
-## Example Insights
-- **Fatigue Trends**: Identify spikes in fatigue levels that may require intervention.
-- **Recovery Optimization**: Correlate sleep and nutritional intake with performance metrics to optimize recovery.
-
-## Files
-- [(Wellness Dashbord](https://github.com/kyac21/Professional-Portfolio-/blob/a66a2d1041c3dddbae3ab543a944c13a8667512c/Wellness%20Dashbord.pdf)): Detailed report with visual insights and trends.
-
-## How to Use
-1. Open the PDF file to review the athlete's wellness trends.
-2. Use insights to modify training and recovery plans.
-
-## Future Enhancements
-- Incorporating mental health metrics like stress and mood levels.
-- Adding hydration tracking for a more holistic wellness view.
-
-
-### 5. Leptin and Metabolic Changes in Offspring
-Research on the effects of maternal undernutrition on offspring's leptin regulation and metabolic changes.
-
-**[Leptin and Metabolic Changes - PowerPoint](./CarrollKya2023.pptx)**
+[Download Resume](files/Resume-Kya-Carroll-Indiana-Fever.pdf)
 
 ---
-
-### 6. Women’s Hoops In-Season Program (UNLV)
-In-season strength and conditioning for the UNLV Women's Basketball team.
-
-**[UNLV Women’s Hoops In-Season Program - Excel File](./Women's%20Hoops%20In%20season%20Program%20%28UNLV%29%20.xlsx)**
 
 ## File Access
 
