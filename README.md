@@ -36,13 +36,6 @@ Feel free to explore my projects in the repository, and feel free to reach out t
 
 ## Projects
 
-# Kya Carroll - Professional Portfolio
-
-## About Me
-Welcome to my professional portfolio! I specialize in sports science and performance, with expertise in strength and conditioning, sports nutrition, and athlete performance analysis.
-
-Connect with me on [LinkedIn](https://linkedin.com/in/kyacarroll).
-
 ## Lectures
 ### Training for Sport
 These materials were developed as part of my role as a Teaching Assistant for REHSCI 1215 Exercise Physiology. Topics include periodization, overtraining, tapering, and detraining. Special thanks to Dr. Sean Crandell for his guidance and support during these lectures.
