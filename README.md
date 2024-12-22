@@ -45,28 +45,28 @@ These materials were developed as part of my role as a Teaching Assistant for RE
 ### Nutrition for Sport
 Another core lecture series I led, focusing on macronutrient intake, hydration, and their effects on athletic performance. This series was also made possible with the mentorship of Dr. Sean Crandell.
 
-[Download Lecture Material](17.KA_CH_17b_Nutrition_for_sport_copy.pdf)
+[Download Lecture Material](./17.KA_CH_17b_Nutrition_for_sport_copy.pdf)
 
 ## 2024 Preseason Updates (Pitt Women’s Basketball)
 A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasing preseason strength and conditioning progress for Pitt Women’s Basketball.
 
-[Download Slide Deck](2024_Preseason_Updates_PITT_WBB_copy.pptx)
+[Download Slide Deck](./2024_Preseason_Updates_PITT_WBB_copy.pptx)
 
 ## Performance Dashboards
 Performance data visualizations created using Power BI. **Note:** Names of athletes have been redacted for confidentiality.
 
-![Example Player Dashboard](Example_Player_Dashbord.pdf)
-![Wellness Dashboard](Wellness_Dashboard.pdf)
+![Example Player Dashboard](./Example_Player_Dashbord.pdf)
+![Wellness Dashboard](./Wellness_Dashboard.pdf)
 
 ## Research Projects
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
 
-[Download Research Presentation](CarrollKya2023.pptx)
+[Download Research Presentation](./CarrollKya2023.pptx)
 
 ## Resume
 View my complete professional background, including certifications and skills.
 
-[Download Resume](Resume-Kya-Carroll-Indiana-Fever.pdf)
+[Download Resume](./Resume-Kya-Carroll-Indiana-Fever.pdf)
 
 ---
 
