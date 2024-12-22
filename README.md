@@ -50,7 +50,8 @@ Another core lecture series I led, focusing on macronutrient intake, hydration, 
 ## 2024 Preseason Updates (Pitt Women’s Basketball)
 A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasing preseason strength and conditioning progress for Pitt Women’s Basketball.
 
-[Download Slide Deck](./2024_Preseason_Updates_PITT_WBB_copy.pptx)
+[Download Slide Deck]((https://raw.githubusercontent.com/kyac21/Professional-portfolio/main/files/2024_Preseason_Updates_PITT_WBB_copy.pptx
+)
 
 ## Performance Dashboards
 Performance data visualizations created using Power BI. **Note:** Names of athletes have been redacted for confidentiality.
