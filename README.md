@@ -40,36 +40,33 @@ Feel free to explore my projects in the repository, and feel free to reach out t
 ### Training for Sport
 These materials were developed as part of my role as a Teaching Assistant for REHSCI 1215 Exercise Physiology. Topics include periodization, overtraining, tapering, and detraining. Special thanks to Dr. Sean Crandell for his guidance and support during these lectures.
 
-[Download Lecture Material](files/15.KA_CH_16_Training_for_sport_copy.pdf)
+[Download Lecture Material](15.KA_CH_16_Training_for_sport_copy.pdf)
 
 ### Nutrition for Sport
 Another core lecture series I led, focusing on macronutrient intake, hydration, and their effects on athletic performance. This series was also made possible with the mentorship of Dr. Sean Crandell.
 
-[Download Lecture Material](files/17.KA_CH_17b_Nutrition_for_sport_copy.pdf)
+[Download Lecture Material](17.KA_CH_17b_Nutrition_for_sport_copy.pdf)
 
 ## 2024 Preseason Updates (Pitt Women’s Basketball)
 A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasing preseason strength and conditioning progress for Pitt Women’s Basketball.
 
-[Download Slide Deck](files/2024_Preseason_Updates_PITT_WBB_copy.pptx)
+[Download Slide Deck](2024_Preseason_Updates_PITT_WBB_copy.pptx)
 
 ## Performance Dashboards
 Performance data visualizations created using Power BI. **Note:** Names of athletes have been redacted for confidentiality.
 
-![Example Player Dashboard](files/Example_Player_Dashbord.pdf)
-![Wellness Dashboard](files/Wellness_Dashboard.pdf)
-
-[Download Example Player Dashboard (Redacted)](files/Example_Player_Dashbord.pdf)  
-[Download Wellness Dashboard (Redacted)](files/Wellness_Dashboard.pdf)
+![Example Player Dashboard](Example_Player_Dashbord.pdf)
+![Wellness Dashboard](Wellness_Dashboard.pdf)
 
 ## Research Projects
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
 
-[Download Research Presentation](files/CarrollKya2023.pptx)
+[Download Research Presentation](CarrollKya2023.pptx)
 
 ## Resume
 View my complete professional background, including certifications and skills.
 
-[Download Resume](files/Resume-Kya-Carroll-Indiana-Fever.pdf)
+[Download Resume](Resume-Kya-Carroll-Indiana-Fever.pdf)
 
 ---
 
