@@ -40,12 +40,12 @@ Feel free to explore my projects in the repository, and feel free to reach out t
 ### Training for Sport
 These materials were developed as part of my role as a Teaching Assistant for REHSCI 1215 Exercise Physiology. Topics include periodization, overtraining, tapering, and detraining. Special thanks to Dr. Sean Crandell for his guidance and support during these lectures.
 
-[Download Lecture Material](15.KA_CH_16_Training_for_sport_copy.pdf)
+[Download Lecture Material](./15.KA_CH_16_Training_for_sport_copy.pdf?raw=true)
 
 ### Nutrition for Sport
 Another core lecture series I led, focusing on macronutrient intake, hydration, and their effects on athletic performance. This series was also made possible with the mentorship of Dr. Sean Crandell.
 
-[Download Lecture Material](./17.KA_CH_17b_Nutrition_for_sport_copy.pdf)
+[Download Lecture Material](./17.KA_CH_17b_Nutrition_for_sport_copy.pdf?raw=true)
 
 ## 2024 Preseason Updates (Pitt Women’s Basketball)
 A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasing preseason strength and conditioning progress for Pitt Women’s Basketball.
@@ -58,16 +58,17 @@ Performance data visualizations created using Power BI. **Note:** Names of athle
 ![Example Player Dashboard](./Example_Player_Dashbord.pdf)
 ![Wellness Dashboard](./Wellness_Dashboard.pdf)
 
+[Download Example Player Dashboard (Redacted)](./Example_Player_Dashbord.pdf?raw=true)  
+[Download Wellness Dashboard (Redacted)](./Wellness_Dashboard.pdf?raw=true)
+
 ## Research Projects
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
 
-[Download Research Presentation](./CarrollKya2023.pptx)
+[Download Research Presentation](./CarrollKya2023.pptx?raw=true)
 
 ## Resume
 View my complete professional background, including certifications and skills.
 
-[Download Resume](./Resume-Kya-Carroll-Indiana-Fever.pdf)
+[Download Resume](./Resume-Kya-Carroll-Indiana-Fever.pdf?raw=true)
 
 ---
-
-
