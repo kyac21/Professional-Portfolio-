@@ -61,11 +61,9 @@ A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasi
 ## Performance Dashboards
 Performance data visualizations created using Power BI. **Note:** Names of athletes have been redacted for confidentiality.
 
-![Example Player Dashboard](./Example_Player_Dashbord.pdf)
-![Wellness Dashboard](./Wellness_Dashboard.pdf)
+[Example Player Dashboard](./Example_Player_Dashbord.pdf?raw=true)
+[Wellness Dashboard](./Wellness_Dashboard.pdf?raw=true)
 
-[Download Example Player Dashboard (Redacted)](./Example_Player_Dashbord.pdf?raw=true)  
-[Download Wellness Dashboard (Redacted)](./Wellness_Dashboard.pdf?raw=true)
 
 ## Research Projects
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
