@@ -40,7 +40,7 @@ Feel free to explore my projects in the repository, and feel free to reach out t
 ### Training for Sport
 These materials were developed as part of my role as a Teaching Assistant for REHSCI 1215 Exercise Physiology. Topics include periodization, overtraining, tapering, and detraining. Special thanks to Dr. Sean Crandell for his guidance and support during these lectures.
 
-[Download Lecture Material](./15.KA_CH_16_Training_for_sport_copy.pdf?raw=true)
+[Download Lecture Material](https://github.com/kyac21/Professional-Portfolio-/blob/cce876a13c41855c1b05ca835b7f3b9f0957eb1e/15.%20KA%20CH%2016%20Training%20for%20sport%20copy.pdf?raw=true)
 
 ### Nutrition for Sport
 Another core lecture series I led, focusing on macronutrient intake, hydration, and their effects on athletic performance. This series was also made possible with the mentorship of Dr. Sean Crandell.
