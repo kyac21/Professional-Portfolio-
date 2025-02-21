@@ -64,6 +64,13 @@ Performance data visualizations created using Power BI. **Note:** Names of athle
 [Example Player Dashboard](./Example_Player_Dashbord.pdf?raw=true)
 [Wellness Dashboard](./Wellness_Dashboard.pdf?raw=true)
 
+### Load Monitoring Progression Plan (Return-to-Play) – Pitt WBB
+This Load Monitoring Progression Plan was developed to safely integrate a return-to-play athlete into in-season practice within a three-week timeframe. The structured progression focuses on gradual workload increases, ensuring the athlete meets performance benchmarks while minimizing injury risk.
+
+This plan was implemented at the University of Pittsburgh Women’s Basketball Team as part of their strength & conditioning and sports science protocols.
+- [Load Monitoring Progression Plan (RTP) - Pitt WBB](./INDIVIDUAL%20LOAD%20PROGRESSION%20PLAN%20%28RTP%29.xlsx)
+
+
 
 ## Research Projects
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
