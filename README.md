@@ -59,9 +59,16 @@ A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasi
 [Download Slide Deck](./2024_Preseason_Updates_PITT_WBB_copy.pptx?raw=true)
 
 ## Performance Dashboards
-Performance data visualizations created using Power BI. **Note:** Names of athletes have been redacted for confidentiality.
+This section highlights key performance reports, dashboards, and presentations that I have developed to analyze athlete data, monitor wellness, and assess training effectiveness. These tools were created using Power BI, Excel, and PowerPoint, combining both data visualization skills and applied sports science knowledge.
+
+### Example Player Dashboard
+A sample player performance dashboard developed to visualize individual athlete data, including wellness trends, workload, and key performance metrics. This dashboard serves as a template for monitoring player readiness and adjusting training loads accordingly.
 
 [Example Player Dashboard](./Example_Player_Dashbord.pdf?raw=true)
+
+### Wellness Dashboard
+This dashboard tracks self-reported athlete wellness data, including sleep, soreness, stress, and overall well-being. The dashboard helps sports science staff identify trends and proactively adjust training plans to optimize recovery and performance.
+
 [Wellness Dashboard](./Wellness_Dashboard.pdf?raw=true)
 
 ### Load Monitoring Progression Plan (Return-to-Play) – Pitt WBB
