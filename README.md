@@ -70,6 +70,16 @@ This Load Monitoring Progression Plan was developed to safely integrate a return
 This plan was implemented at the University of Pittsburgh Women’s Basketball Team as part of their strength & conditioning and sports science protocols.
 [Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
 
+### Strength Lab Report – Applied Strength Testing
+This slide deck summarizes strength lab testing conducted during my time at the University of Pittsburgh. The report includes data collection methods, interpretation of force plate data, and applied recommendations for athlete programming based on individual strength profiles.
+
+[Download Strength Lab Report](./STRENGTH%20LAB%20REPORT.pptx?raw=true)
+
+### Performance Science Slide Deck – My Approach to Sports Science
+This slide deck serves as my personal philosophy and applied framework for performance science. It highlights how I integrate data collection, performance analysis, and evidence-based recommendations into real-world training environments. This document serves as a capstone to my evolving work as a performance scientist.
+
+[Download Performance Science Slide Deck](./Carroll.%20Kya.%20Performance%20Scientist%20Slide%20Deck.pptx?raw=true)
+
 
 
 ## Research Projects
