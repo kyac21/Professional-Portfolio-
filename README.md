@@ -73,7 +73,7 @@ This plan was implemented at the University of Pittsburgh Women’s Basketball T
 ### Strength Lab Report – Applied Strength Testing
 This slide deck summarizes strength lab testing conducted during my time at the University of Pittsburgh. The report includes data collection methods, interpretation of force plate data, and applied recommendations for athlete programming based on individual strength profiles.
 
-[Download Strength Lab Report](./STRENGTH%20LAB%20REPORT.pptx?raw=true)
+[Download Strength Lab Report](./Strength_Lab_Report.pptx?raw=true)
 
 ### Performance Science Slide Deck – My Approach to Sports Science
 This slide deck serves as my personal philosophy and applied framework for performance science. It highlights how I integrate data collection, performance analysis, and evidence-based recommendations into real-world training environments. This document serves as a capstone to my evolving work as a performance scientist.
