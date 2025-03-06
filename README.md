@@ -78,7 +78,7 @@ This slide deck summarizes strength lab testing conducted during my time at the 
 ### Performance Science Slide Deck – My Approach to Sports Science
 This slide deck serves as my personal philosophy and applied framework for performance science. It highlights how I integrate data collection, performance analysis, and evidence-based recommendations into real-world training environments. This document serves as a capstone to my evolving work as a performance scientist.
 
-[Download Performance Science Slide Deck](./Carroll.%20Kya.%20Performance%20Scientist%20Slide%20Deck.pptx?raw=true)
+[Download Performance Science Slide Deck](./Performance_Scientist_Slide_Deck.pdf?raw=true)
 
 
 
