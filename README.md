@@ -75,6 +75,7 @@ This dashboard tracks self-reported athlete wellness data, including sleep, sore
 This Load Monitoring Progression Plan was developed to safely integrate a return-to-play athlete into in-season practice within a three-week timeframe. The structured progression focuses on gradual workload increases, ensuring the athlete meets performance benchmarks while minimizing injury risk.
 
 This plan was implemented at the University of Pittsburgh Women’s Basketball Team as part of their strength & conditioning and sports science protocols.
+
 [Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
 
 ### Strength Lab Report – Applied Strength Testing
