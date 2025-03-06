@@ -70,7 +70,7 @@ This Load Monitoring Progression Plan was developed to safely integrate a return
 This plan was implemented at the University of Pittsburgh Women’s Basketball Team as part of their strength & conditioning and sports science protocols.
 [Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
 
-[Download Performance Science Slide Deck](./Carroll.Kya.PerformanceScientistSlideDeck.pdf?raw=true)
+
 
 ## Research Projects
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
