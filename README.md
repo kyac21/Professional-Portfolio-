@@ -47,7 +47,7 @@ Another core lecture series I led, focusing on macronutrient intake, hydration, 
 
 [Download Lecture Material](./17.KA_CH_17b_Nutrition_for_sport_copy.pdf?raw=true)
 
-## Strength and Conditioning for Women’s Basketball
+## Strenght and Conditioning for Women’s Basketball
 ### UNLV In-Season Program
 A comprehensive strength and conditioning program tailored for the UNLV Women’s Basketball team to maintain peak performance during the season.
 
@@ -79,12 +79,13 @@ This plan was implemented at the University of Pittsburgh Women’s Basketball T
 
 [Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
 
+## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
 ### Strength Lab Report – Applied Strength Testing
 This slide deck summarizes strength lab testing conducted during my time at the University of Pittsburgh. The report includes data collection methods, interpretation of force plate data, and applied recommendations for athlete programming based on individual strength profiles.
 
 [Download Strength Lab Report](./Strength_Lab_Report.pptx?raw=true)
 
-## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
+
 ### Women's Basketball example season review report
 This slide deck serves as an example of my applied framework for performance science. It highlights how I integrate data collection, performance analysis, and evidence-based recommendations into real-world training environments. 
 
@@ -93,6 +94,8 @@ This slide deck serves as an example of my applied framework for performance sci
 ### U.S. Ski and Snowboard Force Plate Testing Slide Deck
 
 
+## Other Sports Science Projects 
+### Sports Science Playbook (Pitt Women's Basketball) 
 
 
 
