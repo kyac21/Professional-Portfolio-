@@ -98,6 +98,8 @@ This slide deck serves as an example of my applied framework for performance sci
 ## Other Sports Science Projects 
 ### Sports Science Playbook (Pitt Women's Basketball) 
 
+[Download Playbook](./Sport_Science_Playbook.pdf?raw=true)
+
 
 
 ## Research Projects
@@ -108,6 +110,6 @@ My research explores leptin regulation and metabolic changes in offspring. These
 ## Resume
 View my complete professional background, including certifications and skills.
 
-[Download Resume](./Resume-Kya-Carroll-Indiana-Fever.pdf?raw=true)
+[Download Resume](./Kya_Resume.pdf?raw=true)
 
 ---
