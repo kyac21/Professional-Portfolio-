@@ -92,17 +92,16 @@ This slide deck serves as an example of my applied framework for performance sci
 [Download Performance Science Slide Deck](./Performance_Scientist_Slide_Deck.pdf?raw=true)
 
 ### U.S. Ski and Snowboard Force Plate Testing Slide Deck
-
-[Download Slide Deck](./Force_Plate_Testing_Slide_Deck.pdf?raw=true)
 This slide deck serves as an example of my applied framework for performance science. It highlights how I integrate data collection, performance analysis, and evidence-based recommendations into real-world training environments. In a snowboarding context. 
 
+[Download Slide Deck](./Force_Plate_Testing_Slide_Deck.pdf?raw=true)
 
 ## Other Sports Science Projects 
 ### Sports Science Playbook (Pitt Women's Basketball) 
 
-[Download Playbook](./Sport_Science_Playbook.pdf?raw=true)
 This is a manual containting workflows and education of the various sports science related resouces implemented and utilized by the University of Pitssburguh's Women's Basketball Team. 
 
+[Download Playbook](./Sport_Science_Playbook.pdf?raw=true)
 
 
 ## Research Projects
