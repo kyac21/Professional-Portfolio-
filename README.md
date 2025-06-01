@@ -93,6 +93,7 @@ This slide deck serves as an example of my applied framework for performance sci
 
 ### U.S. Ski and Snowboard Force Plate Testing Slide Deck
 
+[Download Slide Deck](./[Force_Plate_Testing_Slide_Deck.pdf?raw=true)
 
 ## Other Sports Science Projects 
 ### Sports Science Playbook (Pitt Women's Basketball) 
