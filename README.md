@@ -59,15 +59,16 @@ A collaborative presentation developed alongside Dr. Michelle Van Dyke, showcasi
 [Download Slide Deck](./2024_Preseason_Updates_PITT_WBB_copy.pptx?raw=true)
 
 ## Performance Dashboards
-This section highlights key performance reports, dashboards, and presentations that I have developed to analyze athlete data, monitor wellness, and assess training effectiveness. These tools were created using Power BI, Excel, and PowerPoint, combining both data visualization skills and applied sports science knowledge.
+This section highlights key performance reports, dashboards, and presentations that I have developed to analyze athlete data, monitor wellness, and assess training effectiveness. These tools were created using Power BI and Excel, combining both data visualization skills and applied sports science knowledge. 
 
 ### Example Player Dashboard
-A sample player performance dashboard developed to visualize individual athlete data, including wellness trends, workload, and key performance metrics. This dashboard serves as a template for monitoring player readiness and adjusting training loads accordingly.
+A sample player performance dashboard developed to visualize individual athlete data, including wellness trends, workload, and key performance metrics. This dashboard serves as a template for monitoring player readiness and adjusting training loads accordingly.(Built with Power BI)
 
 [Example Player Dashboard](./Example_Player_Dashbord.pdf?raw=true)
 
 ### Wellness Dashboard
-This dashboard tracks self-reported athlete wellness data, including sleep, soreness, stress, and overall well-being. The dashboard helps sports science staff identify trends and proactively adjust training plans to optimize recovery and performance.
+This dashboard tracks self-reported athlete wellness data, including sleep, soreness, stress, and overall well-being. The dashboard helps sports science staff identify trends and proactively adjust training plans to optimize recovery and performance. (Built with Power BI)
+
 
 [Wellness Dashboard](./Wellness_Dashboard.pdf?raw=true)
 
@@ -83,10 +84,15 @@ This slide deck summarizes strength lab testing conducted during my time at the 
 
 [Download Strength Lab Report](./Strength_Lab_Report.pptx?raw=true)
 
-### Performance Science Slide Deck – My Approach to Sports Science
-This slide deck serves as my personal philosophy and applied framework for performance science. It highlights how I integrate data collection, performance analysis, and evidence-based recommendations into real-world training environments. This document serves as a capstone to my evolving work as a performance scientist.
+## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
+### Women's Basketball example season review report
+This slide deck serves as an example of my applied framework for performance science. It highlights how I integrate data collection, performance analysis, and evidence-based recommendations into real-world training environments. 
 
 [Download Performance Science Slide Deck](./Performance_Scientist_Slide_Deck.pdf?raw=true)
+
+### U.S. Ski and Snowboard Force Plate Testing Slide Deck
+
+
 
 
 
