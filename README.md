@@ -2,19 +2,20 @@
 # Professional Portfolio
 ### About Me
 
-Hello! My name is **Kya Carroll**, and I am currently pursuing my **Master of Science in Sports Science** at the **University of Pittsburgh** (expected graduation: May 2025). I also hold a **Bachelor of Arts in Health Sciences**, with distinction, and a minor in Psychology from **Hendrix College**, where I was consistently recognized on the Dean's List.
+Hello! My name is **Kya Carroll**, and I am currently pursuing my **Master of Science in Sports Science** at the **University of Pittsburgh**. I also hold a **Bachelor of Arts in Health Sciences**, with distinction, and a minor in Psychology from **Hendrix College**, where I was consistently recognized on the Dean's List.
 
 I am passionate about enhancing athletic performance, optimizing training programs, and applying sports science principles in practical settings. I am deeply committed to advancing my expertise in **strength and conditioning**, **exercise physiology**, and **sports nutrition**.
 
 ### Education:
-- **Master of Science in Sports Science**, University of Pittsburgh (Expected May 2025)
+- **Master of Science in Sports Science**, University of Pittsburgh
 - **Bachelor of Arts in Health Sciences with Distinction**, Hendrix College (2020-2024)
 - **Minor in Psychology**, Hendrix College
 - Additional coursework at Henderson State University and University of Arkansas at Little Rock
 
 ### Professional Experience:
-- **Sports Science/Strength and Conditioning Intern** at the University of Pittsburgh's Women's Basketball program. Here, I contribute to strength and conditioning programs, focusing on injury prevention and performance enhancement.
-- **Exercise Physiology Student Assistant** at the University of Pittsburgh, where I support both the lecture and lab components of the Exercise Physiology course.
+- **High Performance Fellow for the **U.S. Ski and Snowboarding Team**. Here I contribute to the high perforamnce depatment, contributing to strength and conditioning, sports science, and return to snow initiatives. 
+- **Sports Science/Strength and Conditioning Intern** at the **University of Pittsburgh's Women's Basketball program**. Here, I contribute to strength and conditioning programs, focusing on injury prevention and performance enhancement.
+- **Exercise Physiology Student Assistant** at the **University of Pittsburgh**, where I support both the lecture and lab components of the Exercise Physiology course.
 - **Strength and Conditioning Intern** at **University of Nevada Las Vegas Athletics**, assisting with performance assessments and the operation of advanced sports technologies.
 - I have also been involved in various internships and research opportunities, including a **Summer Undergraduate Research Program (SURP)** at the **University of Arkansas for Medical Sciences**, where I explored metabolic data collection and presented my research at a symposium.
 
@@ -24,7 +25,13 @@ I am passionate about enhancing athletic performance, optimizing training progra
 - Proficient in Microsoft Office (Word, PowerPoint, Excel) and various sports performance technologies (e.g., Catapult, Force Plates, Polar devices)
 
 ### Research & Contributions:
-- I have contributed to significant research projects, including **Blood Flow Restriction (BFR) therapy**, **metabolic data collection**, and **glucose tolerance testing**. I am particularly interested in how **maternal undernutrition** impacts metabolic regulation in offspring, a subject I presented on at the **Central Arkansas Undergraduate Research Symposium**.
+## University of Arkansas for Medical Sciences  Research: "A 30% Maternal Caloric Restriction Alters Expression of Musashi Targets in the Neonatal and Adult Pituitary Proteomes of  FVB Mice"  
+-	Co-author on a project investigating the effects of nutritional manipulation on metabolic and hormonal responses —an upcoming Peer-Reviewed Publication 
+## Case Study: "Complex Laceration with Muscle Damage in Division 1 Female Basketball Player"   
+-	This case study examines the return-to-play process for a Division 1 Women's Basketball player at the University of Pittsburgh, focusing on the framework utilized for safe reintegration into in-season practices, monitored with data from Catapult technology and Hawkin Dynamics Force Plates—an upcoming Peer-Reviewed Publication. 
+## Master’s Capstone: “The Relationship Between Countermovement Jump Force-Time Curve Waveforms and Associated Kinetic Variables in Female Collegiate Basketball Athletes.” 
+-	Explored associations between waveform patterns and kinetic variables to enhance the utility of CMJ monitoring in return-to-play contexts.
+
 
 ### Athletics:
 I was a dedicated athlete in college sports, having competed as a thrower for **Hendrix College Track and Field**, where I earned a letter and made the **Southern Athletic Association (SAA) Academic Honor Roll**.
@@ -47,7 +54,7 @@ Another core lecture series I led, focusing on macronutrient intake, hydration, 
 
 [Download Lecture Material](./17.KA_CH_17b_Nutrition_for_sport_copy.pdf?raw=true)
 
-## Strenght and Conditioning for Women’s Basketball
+## Strength and Conditioning for Women’s Basketball
 ### UNLV In-Season Program
 A comprehensive strength and conditioning program tailored for the UNLV Women’s Basketball team to maintain peak performance during the season.
 
