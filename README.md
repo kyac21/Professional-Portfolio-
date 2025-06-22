@@ -25,12 +25,12 @@ I am passionate about enhancing athletic performance, optimizing training progra
 - Proficient in Microsoft Office (Word, PowerPoint, Excel) and various sports performance technologies (e.g., Catapult, Force Plates, Polar devices)
 
 ### Research & Contributions:
-University of Arkansas for Medical Sciences  Research: "A 30% Maternal Caloric Restriction Alters Expression of Musashi Targets in the Neonatal and Adult Pituitary Proteomes of  FVB Mice"  
--	Co-author on a project investigating the effects of nutritional manipulation on metabolic and hormonal responses —an upcoming Peer-Reviewed Publication 
-Case Study: "Complex Laceration with Muscle Damage in Division 1 Female Basketball Player"   
--	This case study examines the return-to-play process for a Division 1 Women's Basketball player at the University of Pittsburgh, focusing on the framework utilized for safe reintegration into in-season practices, monitored with data from Catapult technology and Hawkin Dynamics Force Plates—an upcoming Peer-Reviewed Publication. 
-Master’s Capstone: “The Relationship Between Countermovement Jump Force-Time Curve Waveforms and Associated Kinetic Variables in Female Collegiate Basketball Athletes.” 
--	Explored associations between waveform patterns and kinetic variables to enhance the utility of CMJ monitoring in return-to-play contexts.
+- University of Arkansas for Medical Sciences  Research: "A 30% Maternal Caloric Restriction Alters Expression of Musashi Targets in the Neonatal and Adult Pituitary Proteomes of  FVB Mice"  
+  - Co-author on a project investigating the effects of nutritional manipulation on metabolic and hormonal responses —an upcoming Peer-Reviewed Publication 
+- Case Study: "Complex Laceration with Muscle Damage in Division 1 Female Basketball Player"   
+    - This case study examines the return-to-play process for a Division 1 Women's Basketball player at the University of Pittsburgh, focusing on the framework utilized for safe reintegration into in-season practices, monitored with data from Catapult technology and Hawkin Dynamics Force Plates—an upcoming Peer-Reviewed Publication. 
+- Master’s Capstone: “The Relationship Between Countermovement Jump Force-Time Curve Waveforms and Associated Kinetic Variables in Female Collegiate Basketball Athletes.” 
+  - Explored associations between waveform patterns and kinetic variables to enhance the utility of CMJ monitoring in return-to-play contexts.
 
 
 ### Athletics:
