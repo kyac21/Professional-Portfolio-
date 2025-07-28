@@ -92,6 +92,7 @@ This dashboard was built to profile para-athletes’ loaded broad jumps utilizin
 
 [Download Load-Velocity Broad Jump Profiling Dashboard](./Load_velocity_1080_Broad_Jump_Dashboard.xlsx?raw=true)
 
+
 ## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
 ### Strength Lab Report – Applied Strength Testing
 This slide deck summarizes strength lab testing conducted during my time at the University of Pittsburgh. The report includes data collection methods, interpretation of force plate data, and applied recommendations for athlete programming based on individual strength profiles.
