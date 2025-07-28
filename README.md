@@ -92,8 +92,6 @@ This dashboard was built to profile para-athletes’ loaded broad jumps utilizin
 
 [Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
 
- 
-
 ## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
 ### Strength Lab Report – Applied Strength Testing
 This slide deck summarizes strength lab testing conducted during my time at the University of Pittsburgh. The report includes data collection methods, interpretation of force plate data, and applied recommendations for athlete programming based on individual strength profiles.
