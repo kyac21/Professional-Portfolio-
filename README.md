@@ -90,7 +90,7 @@ This plan was implemented at the University of Pittsburgh Women’s Basketball T
 
 This dashboard was built to profile para-athletes’ loaded broad jumps utilizing the 1080 Sprint. Since traditional sprint profiling is not applicable for these athletes, the broad jump served as a practical and inclusive method to assess horizontal force production under load. The goal was to better understand how each athlete generates and transfers force horizontally, providing insights to guide programming for tasks like change of direction, propulsion, and other movement strategies relevant to their sport.
 
-[Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
+[Load-Velocity Broad Jump Profiling Dashboard](./Load_velocity_1080_Broad_Jump_Dashboard.xlsx?raw=true)
 
 ## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
 ### Strength Lab Report – Applied Strength Testing
