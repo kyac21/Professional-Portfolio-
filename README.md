@@ -71,26 +71,26 @@ This section highlights key performance reports, dashboards, and presentations t
 ### Example Player Dashboard
 A sample player performance dashboard developed to visualize individual athlete data, including wellness trends, workload, and key performance metrics. This dashboard serves as a template for monitoring player readiness and adjusting training loads accordingly.(Built with Power BI)
 
-[Example Player Dashboard](./Example_Player_Dashbord.pdf?raw=true)
+[Download Example Player Dashboard](./Example_Player_Dashbord.pdf?raw=true)
 
 ### Wellness Dashboard
 This dashboard tracks self-reported athlete wellness data, including sleep, soreness, stress, and overall well-being. The dashboard helps sports science staff identify trends and proactively adjust training plans to optimize recovery and performance. (Built with Power BI)
 
 
-[Wellness Dashboard](./Wellness_Dashboard.pdf?raw=true)
+[Download Wellness Dashboard](./Wellness_Dashboard.pdf?raw=true)
 
 ### Load Monitoring Progression Plan (Return-to-Play) – Pitt WBB
 This Load Monitoring Progression Plan was developed to safely integrate a return-to-play athlete into in-season practice within a three-week timeframe. The structured progression focuses on gradual workload increases, ensuring the athlete meets performance benchmarks while minimizing injury risk.
 
 This plan was implemented at the University of Pittsburgh Women’s Basketball Team as part of their strength & conditioning and sports science protocols.
 
-[Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
+[Download Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
 
 ### Load-Velocity Broad Jump Profiling Dashboard
 
 This dashboard was built to profile para-athletes’ loaded broad jumps utilizing the 1080 Sprint. Since traditional sprint profiling is not applicable for these athletes, the broad jump served as a practical and inclusive method to assess horizontal force production under load. The goal was to better understand how each athlete generates and transfers force horizontally, providing insights to guide programming for tasks like change of direction, propulsion, and other movement strategies relevant to their sport.
 
-[Load-Velocity Broad Jump Profiling Dashboard](./Load_velocity_1080_Broad_Jump_Dashboard.xlsx?raw=true)
+[Download Load-Velocity Broad Jump Profiling Dashboard](./Load_velocity_1080_Broad_Jump_Dashboard.xlsx?raw=true)
 
 ## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
 ### Strength Lab Report – Applied Strength Testing
