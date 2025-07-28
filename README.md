@@ -86,6 +86,10 @@ This plan was implemented at the University of Pittsburgh Women’s Basketball T
 
 [Load Monitoring Progression Plan (RTP) - Pitt WBB](./Load_Monitoring_Progression_Plan_RTP.xlsx?raw=true)
 
+### Load-Velocity Broad Jump Profiling Dashboard
+
+This dashboard was built to profile para-olympic athltes' loaded broad jumps utilizing the 1080 
+
 ## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
 ### Strength Lab Report – Applied Strength Testing
 This slide deck summarizes strength lab testing conducted during my time at the University of Pittsburgh. The report includes data collection methods, interpretation of force plate data, and applied recommendations for athlete programming based on individual strength profiles.
