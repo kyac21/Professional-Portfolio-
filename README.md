@@ -135,7 +135,8 @@ My research explores leptin regulation and metabolic changes in offspring. These
 
 Explored associations between waveform patterns and kinetic variables to enhance the utility of athlete profiling in performance and return-to-play contexts.
 
-[Download Presentation](./Sport_Science_Playbook.pdf?raw=true)
+[Download Presentation](./SPSCI_2130_Capstone_Presentation_Final.pptx?raw=true)
+
 ## Resume
 View my complete professional background, including certifications and skills.
 
