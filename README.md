@@ -13,7 +13,7 @@ I am passionate about enhancing athletic performance, optimizing training progra
 - Additional coursework at Henderson State University and University of Arkansas at Little Rock
 
 ### Professional Experience:
-- **High Performance Fellow for the **U.S. Ski and Snowboarding Team**. Here I contribute to the high perforamnce depatment, contributing to strength and conditioning, sports science, and return to snow initiatives. 
+- **High Performance Fellow** for the **U.S. Ski and Snowboarding Team**. Here I contribute to the high perforamnce depatment, contributing to strength and conditioning, sports science, and return to snow initiatives. 
 - **Sports Science/Strength and Conditioning Intern** at the **University of Pittsburgh's Women's Basketball program**. Here, I contribute to strength and conditioning programs, focusing on injury prevention and performance enhancement.
 - **Exercise Physiology Student Assistant** at the **University of Pittsburgh**, where I support both the lecture and lab components of the Exercise Physiology course.
 - **Strength and Conditioning Intern** at **University of Nevada Las Vegas Athletics**, assisting with performance assessments and the operation of advanced sports technologies.
@@ -129,7 +129,7 @@ This is a manual containting workflows and education of the various sports scien
 
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
 
-[Download Presentation](./Sport_Science_Playbook.pdf?raw=true)
+[Download Presentation](./CarrollKya2023.pptx?raw=true)
 
 ### The Relationship Between Countermovement Jump Force-Time Curve Waveforms and Associated Kinetic Variables in Female Collegiate Basketball Athletes
 
