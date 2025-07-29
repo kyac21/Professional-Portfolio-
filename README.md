@@ -92,6 +92,12 @@ This dashboard was built to profile para-athletes’ loaded broad jumps utilizin
 
 [Download Load-Velocity Broad Jump Profiling Dashboard](./Load_velocity_1080_Broad_Jump_Dashboard.xlsx?raw=true)
 
+### Fatigue Monitoring Dashboard
+
+This dashboard was developed to monitor daily neuromuscular fatigue in snowboard athletes using countermovement jump (CMJ) data. Key metrics are compared against individual baselines using coefficient of variation (CV) thresholds. Meaningful changes—highlighted with directional flags—are automatically identified when daily deviations exceed the athlete’s normal variability. This allows for quick interpretation of fatigue status and supports informed return-to-snow and training decisions.
+
+[Download Load-Velocity Broad Jump Profiling Dashboard](./Load_velocity_1080_Broad_Jump_Dashboard.xlsx?raw=true)
+
 
 ## Performance Science Slide Deck – My Approach to Communication of Sports Science to Key Stakeholders
 ### Strength Lab Report – Applied Strength Testing
