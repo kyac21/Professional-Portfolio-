@@ -2,7 +2,7 @@
 # Professional Portfolio
 ### About Me
 
-Hello! My name is **Kya Carroll**, and I am currently pursuing my **Master of Science in Sports Science** at the **University of Pittsburgh**. I also hold a **Bachelor of Arts in Health Sciences**, with distinction, and a minor in Psychology from **Hendrix College**, where I was consistently recognized on the Dean's List.
+Hello! My name is **Kya Carroll**, and I hold a **Master of Science in Sports Science** from the **University of Pittsburgh**. I also hold a **Bachelor of Arts in Health Sciences**, with distinction, and a minor in Psychology from **Hendrix College**, where I was consistently recognized on the Dean's List.
 
 I am passionate about enhancing athletic performance, optimizing training programs, and applying sports science principles in practical settings. I am deeply committed to advancing my expertise in **strength and conditioning**, **exercise physiology**, and **sports nutrition**.
 
