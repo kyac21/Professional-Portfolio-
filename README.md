@@ -30,7 +30,7 @@ I am passionate about enhancing athletic performance, optimizing training progra
 - Case Study: "Complex Laceration with Muscle Damage in Division 1 Female Basketball Player"   
     - This case study examines the return-to-play process for a Division 1 Women's Basketball player at the University of Pittsburgh, focusing on the framework utilized for safe reintegration into in-season practices, monitored with data from Catapult technology and Hawkin Dynamics Force Plates—an upcoming Peer-Reviewed Publication. 
 - Master’s Capstone: “The Relationship Between Countermovement Jump Force-Time Curve Waveforms and Associated Kinetic Variables in Female Collegiate Basketball Athletes.” 
-  - Explored associations between waveform patterns and kinetic variables to enhance the utility of CMJ monitoring in return-to-play contexts.
+  - Explored associations between waveform patterns and kinetic variables to enhance the utility of athlete profiling in performance and return-to-play contexts.
 
 
 ### Athletics:
@@ -125,10 +125,17 @@ This is a manual containting workflows and education of the various sports scien
 
 
 ## Research Projects
+### Male offspring of undernourished dams are protected from high fat diet-induced weight gain and display sex-specific metabolic changes<img 
+
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
 
-[Download Research Presentation](./CarrollKya2023.pptx?raw=true)
+[Download Presentation](./Sport_Science_Playbook.pdf?raw=true)
 
+### The Relationship Between Countermovement Jump Force-Time Curve Waveforms and Associated Kinetic Variables in Female Collegiate Basketball Athletes
+
+Explored associations between waveform patterns and kinetic variables to enhance the utility of athlete profiling in performance and return-to-play contexts.
+
+[Download Presentation](./Sport_Science_Playbook.pdf?raw=true)
 ## Resume
 View my complete professional background, including certifications and skills.
 
