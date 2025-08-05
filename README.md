@@ -125,7 +125,7 @@ This is a manual containting workflows and education of the various sports scien
 
 
 ## Research Projects
-### Male offspring of undernourished dams are protected from high fat diet-induced weight gain and display sex-specific metabolic changes<img 
+### Male offspring of undernourished dams are protected from high fat diet-induced weight gain and display sex-specific metabolic changes
 
 My research explores leptin regulation and metabolic changes in offspring. These findings were presented at the Central Arkansas Undergraduate Research Symposium.
 
